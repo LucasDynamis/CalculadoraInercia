@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CalculadoraInercia</string>
+        <string-array name="tipos_objeto">
+            <item>Esfera</item>
+            <item>Cilindro</item>
+            <item>Disco</item>
+        </string-array>
+    <string-array name="eixos_rotacao">
+        <item>Longitudinal</item>
+        <item>Perpendicular</item>
+    </string-array>
+</resources>
